@@ -96,6 +96,7 @@ Not all tutorial content is going to work for all people; the ways that people l
 
 ## About the Author
 
+| Attribute      | Value          |
 | :-             | :-             |
 | **Height**     | 165 cm         |
 | **Weight**     | 50 kg          |
