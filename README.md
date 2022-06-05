@@ -119,6 +119,10 @@ There we go.
 
 ### Closing Thoughts
 
+I like having sample code for people to download so that if something doesn't work they have something to compare their code against. Unfortunately, this can be a double-edged sword, since people can and will try to download and use your code without bothering to understand it, which can cause all manner of exotic problems downstream. Other creators choose not to provide a sample project, and [I know of at least one person provides sample code but keeps it behind a paywall](https://shaunjs.itch.io/shauns-complete-platformer-tutorial-series), which you might find to be an acceptable compromise.
+
+[Goedel's incompleteness theorum](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems) tells us that there are true statements that can never be proved by our current system of mathematics. This implies that there are questions that science will never be able to answer, and one of those questions is why so many people on YouTube think "I don't like your voice" is a useful thing to say in a comment. Ban them and move on.
+
 Now you know how to make a GameMaker tutorial! Please don't make me regret making this one.
 
 ## Accolades
