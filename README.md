@@ -10,7 +10,7 @@ GameMaker's currently running a [Helpful Dev Jam](https://gamemaker.io/en/blog/h
 
 There's a persistent attitude that "those who can't do, teach" in some circles of modern educational theory. I think this is absolute bollocks and anyone who says this was either dropped as a baby and/or has sour grapes over being told by one of their forebearers that teaching was not a valid career option, or, in most cases, both. There's a (probably misattributed) Albert Einstein quote that goes something like "if you can't explain it to a six year old, you don't understand it yourself," which I find infinitely more palatable.
 
-\*cough\* No I'm not upset about the state of contemporary educational institutions. Whatever gave you that idea?
+\*cough\* No I'm not upset about the state of contemporary educational institutions, which have been suffering for decades from not giving teachers the respect they deserve or the resources they need to help kids succeed. Whatever gave you that idea?
 
 ANYWAY. Have you ever thought to yourself "there's this thing that I know how to do in GameMaker, I wonder if it would be nice if I could tell other people how to do it, too?" If you have, you should probably consult a doctor for a remedy to such ideas ASAP [lest you spend all your time making tutorials such that you never actually have time to make a game](https://github.com/orgs/DragoniteSpam-GameMaker-Tutorials/repositories) but if that isn't a bother to you ~~or if you actually don't want to make a game and are just looking for a convenient excuse to get out of doing so~~ then this is the tutorial for you!
 
