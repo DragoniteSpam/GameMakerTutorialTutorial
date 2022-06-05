@@ -22,6 +22,7 @@ See also [the panel titled "Assembly" in this comic](https://churchm.ag/if-progr
 
 ## About the Author
 
+| Attribute      | Value          |
 | :-             | :-             |
 | **Height**     | 165 cm         |
 | **Weight**     | 50 kg          |
