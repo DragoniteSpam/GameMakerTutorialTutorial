@@ -26,6 +26,14 @@ ANYWAY. Have you ever thought to yourself "there's this thing that I know how to
 
 Congratulations, you're about 80% finished!
 
+Since you already have your outline, pretty much everything that's left involves putting what you've come up with into words. A solid command of the language you're writing in helps immensely. You don't have to write in English. In fact, if you don't speak English, there might be a surprisingly large market for tutorial content in your language that has yet to be filled.
+
+It's usually a good idea to avoid sounding too formal. You can find descriptions for pretty much any algorithm on Wikipedia, but technical articles on Wikipedia have a way of sounding like they were written by someone who's been trapped in a theoretical physics lecture hall for the last 45 years and there's a reason most people search for tutorials elsewhere.
+
+It's also usually a good idea to avoid sounding too conversational. Some people find writing that's too conversational to ruin the immersion and it may be hard to focus on if you include too many weird jokes and self-referential— dammit...
+
+Sprinkling in images and code samples throughout your text is often recommended. This gives people a reference as to where they should be at given points in the code, and if something starts to go wrong it gives them a way to pin down where it might have happened.
+
 ### Creating a Video Tutorial
 
 Congratulations, you're about 20% finished!
