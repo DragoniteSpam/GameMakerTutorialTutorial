@@ -56,7 +56,7 @@ If you have a video description or meta tags or other helpful fields to fill out
 
 By the same coin, don't write misleading or annoyingly clickbaity titles and descriptions. Audience retention is currently one of the bigger (if not the biggest) factors in whether or not YouTube will recommend a video to someone. Clickbait has a tendency of making people leave a page and never come back once they realize that they've been had. This benefits nobody.
 
-There's been an ongoing debate for pretty much the entire history of printed media about whether it's a good idea to use CAPITALIZATION and *EMPHASIS* and MAKE BOLD CLAIMS in titles: `The BEST Game Maker RAYRACED SPAGHETTI Tutorial (2022) (HD) (Also Works for MUFFINS)`, and whether that kind of thing constitutes "annoyingly clickbaity" or not.
+There's been an ongoing debate for pretty much the entire history of printed media about whether it's a good idea to use CAPITALIZATION and *EMPHASIS* and MAKE BOLD CLAIMS in titles: `The BEST Game Maker RAYRACED SPAGHETTI Tutorial (2022) (HD) (Also Works for CAPELLINI)`, and whether that kind of thing constitutes "annoyingly clickbaity" or not.
 
 [![I haven't checked to see if anyone beat my world record yet](img/clickbait.png?raw=true "Grice's Maxim of Relation")](https://web.archive.org/web/*/https://xkcd.com/641/)
 
