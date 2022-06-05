@@ -38,9 +38,44 @@ Sprinkling in images and code samples throughout your text is often recommended.
 
 Congratulations, you're about 20% finished!
 
+The good news is that when you're making a video tutorial, you don't need to sprinkle in images and code samples throughout because, well, that's what your entire deliverable is to begin with. The bad news is that there are like a dozen other things you need to keep on top of.
+
+I don't want to get too far into the technical aspects of video production because many people have already written entire books about that sort of thing \[citation needed], but you will need:
+
+ - A screen capture tool; these days most people like [OBS](https://obsproject.com/)
+
+Things you don't *technically* need but you'll find yourself in want of pretty quickly include:
+
+ - A computer capable of recording your screen at a steady frame rate. It might be worth checking the [system requirements](https://obsproject.com/wiki/System-Requirements) page on whatever recording software you're using, although at the moment OBS's is admittedly not super helpful
+ - A microphone, and relevant accessories such as cables or a pop filter
+ - Video editing software
+ - Adequate hard drive space
+
+You can ~~always~~ usually clean up a recording in post if something doesn't work out, but if you can get a clean recording the first time it'll save you a lot of headache in editing. I recommend making a test project and rehearsing how you're going to run through it once or twice before you hit the record button, and when I say "I recommend" I mean I forget to do this like 90% of the time because I have the memory of a grasshopper so instead I get to spend like five extra hours editing at 3 AM the day before a deadline.
+
+Once the recording is rolling, whatever form that takes, talk through whatever it is you're doing in a step-by-step way. The general shape of a video tutorial will usually be the same as a written one. If you've made adequate preparations beforehand you should be fine, but if it helps you might also want to write down an outline of how you're going to present the material as you might with a written tutorial, in addition to the things I talked about in the last paragraph.
+
+Most people would tell you to stay on topic and not waste the viewer's time going on unrelated and ridiculous tangents, but I'm genetically incapable of not goofing off so it would probably be a bit mean-spirited to force other people to do the same. Instead I'll say that if you're going to goof off, keep it somewhat brief and semi-related to the topic at hand. If you do this for long enough, you'll start to develop a sense of for how long you can goof off before your audience starts to get annoyed ~~which for most people is "instantly."~~
+
+Having some level of understanding of how you're going to edit the video is nice, though if you've never worked with video before you might not want to worry about it too much. The nice thing about pre-recorded video is that if you don't like how something came out the first time, or if you trip over your words, you can just cut the video andd o it over again
+
+The nice thing about pre-recorded video is that if you don't like how it came out the first time, or if you words over your words, you cna
+
+The nice thing about pre-recordec video is that if you don't likeow it came out the first time
+
+Te nice thing about pte \*gagging noises\*
+
+This is why I often recommend drinking water before recording and keeping some on hand at all times to people.
+
+The nice thing about pre-recorded video is that if you don't like how something came out the first time, or if you trip over your words, you can just cut the video and do it over again. It should go without saying is that having to do this as infrequently as possible is ideal, but it's not the end of the world if you do. Try not to make the cuts too obvious, such as by having different things on screen before and after the cut or cutting the audio mid-word, since this can sometimes be distracting and cause people to focus on the edit instead of on the content.
+
+Once you're finished, re-watch the whole thing from beginning to end, ideally after the final video has been rendered out. [Sometimes mistakes slip in](https://youtu.be/0St9UKojd0I?t=4200), which most people would rather catch before the video goes live for the whole world to see.
+
+Because we obviously haven't gotten meta enough yet today, [I made a video tutorial on this for a channel anniversary a while ago that you might like](https://youtu.be/uGjEKZGwp9Y).
+
 ### Marketing Your Tutorial
 
-Look, marketing is *haaaaaaaard* and anyone who says they know the key to search engine optimization (SEO; if it sounds like an annoying corporate buzzword, that's because it is, albeit a useful one) is lying not only to you but also themselves, and also probably their mom, their grandma, their spouse, their dog, and their next-door neighbor regarding when they're going to return their weed whacker because, let's be real, the Internet is mature enough now for us to generally understand that it's a chaotic system that's constantly changing, and even duplicating what one person did to get their content to appear on Google searches the world over beat-for-beat will probably lead to wildly different results.
+Look, marketing is *haaaaaaaard* and anyone who says they know the key to search engine optimization (SEO; if it sounds like an annoying corporate buzzword, that's because it is, albeit a useful one) is lying not only to you but also themselves. The Internet is a chaotic system that's constantly changing, and even duplicating what one person did to get their content to appear on Google searches the world over beat-for-beat will probably lead to wildly and/or disastrously and/or hilariously different results.
 
 With that being said, there are some guidelines which might be occasionally useful.
 
