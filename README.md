@@ -30,6 +30,10 @@ Since you already have your outline, pretty much everything that's left involves
 
 It's usually a good idea to avoid sounding too formal. You can find descriptions for pretty much any algorithm on Wikipedia, but technical articles on Wikipedia have a way of sounding like they were written by someone who's been trapped in a theoretical physics lecture hall for the last 45 years and there's a reason most people search for tutorials elsewhere.
 
+[![Whoever wrote this must be fun art parties](img/wikipedia.png?raw=true "Friggin' nerds.")](https://web.archive.org/web/*/https://xkcd.com/641/)
+
+*Whoever wrote this must be fun at parties.*
+
 It's also usually a good idea to avoid sounding too conversational. Some people find writing that's too conversational to ruin the immersion and it may be hard to focus on if you include too many weird jokes and self-referential— dammit...
 
 Sprinkling in images and code samples throughout your text is often recommended. This gives people a reference as to where they should be at given points in the code, and if something starts to go wrong it gives them a way to pin down where it might have happened.
@@ -95,6 +99,8 @@ There's been an ongoing debate for pretty much the entire history of printed med
 
 [![I haven't checked to see if anyone beat my world record yet](img/clickbait.png?raw=true "Grice's Maxim of Relation")](https://web.archive.org/web/*/https://xkcd.com/641/)
 
+*I haven't checked to see if anyone beat my world record yet.*
+
 I'm not going to tell you *not* to do this, but I am going to tell you that if you that if you do this and the Internet drags you over the coals for it that I will think it is very funny.
 
 3. **Tell people that you made a thing**
@@ -112,6 +118,7 @@ The fact that these are guidelines and not solid rules is exemplified by the fac
 This isn't to say that you're never allowed to cover a topic that [someone else has already made a tutorial on](https://www.youtube.com/results?search_query=gamemaker+text+box+tutorial), but breaking into saturated markets is hard and doing it as a newcomer to the tutorial space is even harder.
 
 Imagine someone searches for "gamemaker spaghetti tutorial," and the search engine retrieves four results. One of them has a million views, one of them has 500,000 views, one of them has 350,000 views, and one of them is yours and it has ten views. Even if yours ranks just as high in the search as the other three, people in general might be less likely to click on an unknown entity that has yet to prove itself through trial by democracy.
+
 
 `How To Cook Spaghetti with Pesto - GameMaker Tutorial`
 
