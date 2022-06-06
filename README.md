@@ -85,13 +85,13 @@ With that being said, there are some guidelines which might be occasionally usef
 
 1. **Be specific in your title and metadata**
 
-People need to know what your thing is about, and by "people" I mean both the individuals that fall in your target audience and the search engine that they might use to find it. Google allegedly can read at a fourth-grade level, or a fifth-grade level, or a sixth-grade level, depending on who you ask, when you ask it, and how smart the person you ask thinks your average fourth-, fifth- or sixth-grader is. This can be a bit of help if you're creating a written tutorial or a video with full captions, and there's a nonzero chance that Google is also capable of deriving some understanding of video by now and we just haven't caught on yet, but giving it a little nudge in the right direction never hurts. It's going to be really hard to make `gm2 game dev spaghetti tutorial 01` rank higher in a search than `How To Cook Spaghetti - GameMaker Tutorial`.
+People need to know what your thing is about, and by "people" I mean both the individuals that fall in your target audience and the search engine that they might use to find it. Google allegedly can read at a fourth-grade level, or a fifth-grade level, or a sixth-grade level, depending on who you ask, when you ask it, and how smart the person you ask thinks your average fourth-, fifth- or sixth-grader is. This can be a bit of help if you're creating a written tutorial or a video with full captions, and there's a nonzero chance that Google is also capable of deriving some understanding of video by now and we just haven't caught on yet, but giving it a little nudge in the right direction never hurts. It's going to be really hard to make `gm tut 01` rank higher in a search than `How To Cook Spaghetti - GameMaker Tutorial`.
 
 There are a few SEO-related tools out there that you might consider trying which can do things like recommend keywords and ways to structure your titles. I haven't found one that I actually like yet but I've been assured that there are some good ones out there somewhere.
 
 2. **Avoid being misleading in your title and metadata**
 
-If you have a video description or meta tags or other helpful fields to fill out, be direct and don't try to game the system. Summarize what you're trying to do in simple terms in a way that someone who reads your description will have a pretty good idea if it'll help them at a glance. By pretty much all accounts [keyword stuffing](https://web.archive.org/web/20220605041154/https://www.straightnorth.com/faq/seo/what-keyword-stuffing/) ruined meta tags for pretty much everyone by the early 2000s, and these days if you try to outsmart the algorithm by writing out the word "spaghetti" five hundred times at the bottom of a video description it'll just push you farther down in the rankings - not to mention the fact that anybody who actually reads the description is going to start asking questions.
+Don't try to game the system. Summarize what you're trying to do in simple terms in a way that someone who reads your description will have a pretty good idea if it'll help them at a glance. By all accounts [keyword stuffing](https://web.archive.org/web/20220605041154/https://www.straightnorth.com/faq/seo/what-keyword-stuffing/) ruined meta tags for pretty much everyone by the early 2000s, and these days if you try to outsmart the algorithm by writing out the word "spaghetti" five hundred times at the bottom of a video description it'll just push you farther down in the rankings - not to mention the fact that anybody who actually reads the description is going to start asking questions.
 
 By the same coin, don't write misleading or annoyingly clickbaity titles and descriptions. Audience retention is currently one of the bigger (if not the biggest) factors in whether or not YouTube will recommend a video to someone. Clickbait has a tendency of making people leave a page and never come back once they realize that they've been had. This benefits nobody.
 
@@ -117,28 +117,31 @@ The fact that these are guidelines and not solid rules is exemplified by the fac
 
 This isn't to say that you're never allowed to cover a topic that [someone else has already made a tutorial on](https://www.youtube.com/results?search_query=gamemaker+text+box+tutorial), but breaking into saturated markets is hard and doing it as a newcomer to the tutorial space is even harder.
 
-Imagine someone searches for "gamemaker spaghetti tutorial," and the search engine retrieves four results. One of them has a million views, one of them has 500,000 views, one of them has 350,000 views, and one of them is yours and it has ten views. Even if yours ranks just as high in the search as the other three, people in general might be less likely to click on an unknown entity that has yet to prove itself through trial by democracy.
+Imagine someone searches for "gamemaker spaghetti tutorial," and the search engine retrieves four results. One of them is Shaun's and has a million views, one of them is Cosmo's and has 500,000 views, one of them is Mathy's and has 350,000 views, and one of them is yours and it has ten views. Even if yours ranks just as high in the search as the other three, people in general might be less likely to click on an unknown entity that has yet to prove itself through trial by democracy.
 
+Let's try going for an angle that nobody else has done yet.
 
 `How To Cook Spaghetti with Pesto - GameMaker Tutorial`
 
-There we go.
+Has anybody done GameMaker with pesto yet? Probably not. There we go.
+
+As per guideline #2, don't do this unless your tutorial is actually about GameMaker and pesto, or you'll find yourself with a brand-new set of problems that you could have just avoided. This one's more about considerations for what kind of tutorial you want to make than it is about what to do afterwards.
 
 ### Closing Thoughts
 
-I like having sample code for people to download so that if something doesn't work they have something to compare their code against. Unfortunately, this can be a double-edged sword, since people can and will try to download and use your code without bothering to understand it, which can cause all manner of exotic problems downstream. Other creators choose not to provide a sample project, and [I know of at least one person provides sample code but keeps it behind a paywall](https://shaunjs.itch.io/shauns-complete-platformer-tutorial-series), which you might find to be an acceptable compromise.
+ - I like having sample code for people to download so that if something doesn't work they have something to compare their code against. Unfortunately, this can be a double-edged sword, since people can and will try to download and use your code without bothering to understand it, which can cause all manner of exotic problems downstream. Other creators choose not to provide a sample project, and [I know of at least one person provides sample code but keeps it behind a paywall](https://shaunjs.itch.io/shauns-complete-platformer-tutorial-series), which you might find to be an acceptable compromise.
 
-[Goedel's incompleteness theorum](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems) tells us that there are true statements that can never be proved by our current system of mathematics. This implies that there are questions that science will never be able to answer, and one of those questions is why so many people on YouTube think "I don't like your voice" is a useful thing to say in a comment. Ban them and move on.
+ - [Goedel's incompleteness theorum](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems) tells us that there are true statements that can never be proved by our current system of mathematics. This implies that there are questions that science will never be able to answer, and one of those questions is why so many people on YouTube think "I don't like your voice" is a useful thing to say in a comment. Ban them and move on.
 
-Now you know how to make a GameMaker tutorial! Please don't make me regret making this one.
+ - Not all tutorial content is going to work for all people; the ways that people learn and absorb information is just too varied. If a tutorial maker tries to cover every possible base to account for every possible caveat and edge case, the tutorial would be [a meandering mess and, paradoxically, absolutely nobody would find it even remotely useful](https://web.archive.org/web/20201111223017/https://archive.org/stream/ulysses04300gut/ulyss12.txt).
 
-## Accolades
+Now you know how to make a GameMaker tutorial! Please don't make me regret writing this.
+
+## Endorsements
 
 [![I'm pretty sure I've been excommunicated at least once for doing this](img/jon.png?raw=true "Jon")](https://www.youtube.com/watch?v=FdJ6E6L1H8o)
 
-## Disclaimers
-
-Not all tutorial content is going to work for all people; the ways that people learn and absorb information is just too varied. If a tutorial maker tries to cover every possible base to account for every possible caveat and edge case, the tutorial would be [a meandering mess and, paradoxically, absolutely nobody would find it even remotely useful](https://web.archive.org/web/20201111223017/https://archive.org/stream/ulysses04300gut/ulyss12.txt).
+*I'm pretty sure I've been excommunicated at least once for doing this.*
 
 ## About the Author
 
