@@ -30,7 +30,7 @@ Since you already have your outline, pretty much everything that's left involves
 
 It's usually a good idea to avoid sounding too formal. You can find descriptions for pretty much any algorithm on Wikipedia, but technical articles on Wikipedia have a way of sounding like they were written by someone who's been trapped in a theoretical physics lecture hall for the last 45 years and there's a reason most people search for tutorials elsewhere.
 
-[![Whoever wrote this must be fun art parties](img/wikipedia.png?raw=true "Friggin' nerds.")](https://web.archive.org/web/*/https://xkcd.com/641/)
+[![Whoever wrote this must be fun art parties](img/wikipedia.png?raw=true "Friggin' nerds.")](https://en.wikipedia.org/w/index.php?title=HSL_and_HSV&oldid=1091154152#Lightness)
 
 *Whoever wrote this must be fun at parties.*
 
