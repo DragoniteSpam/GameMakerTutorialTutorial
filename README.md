@@ -10,6 +10,25 @@ Often times, even with the best-made tutorials, following them beat-for-beat wit
 
 ### Do You Need a Tutorial?
 
+Let's say you have a question. The question can be about anything at all, but let's say you need the answer and you need it now. Depending on your question, you might need a tutorial!
+
+For this thought experiment, let's say you have some questions about making **spaghetti.** Let's go over some different kinds of questions, and whether or not seeking a tutorial would be likely to answer it.
+
+ - **Can your question be answered in one word (or a few simple words)?**
+
+If your question is simple, looking up a tutorial might be overkill, or might not even be able to answer your question in a relevant way. `Is spaghetti vegetarian?` or `What's the plural of "spaghetti?"` or `If you put spaghetti in a blender, would you be eating it or drinking it?` are all great questions to ask, but they all can be answered in only a few words. You would likely be better off simply looking up an encyclopedia entry on spaghetti instead of a tutorial, or just banging on your next-door neighbor's window and checking if they know.
+
+ - **Is your question highly specific to your current situation?**
+
+In order to be able to follow a tutorial you first need the tutorial to exist, and the more specialized your question is to the predicament you find yourself in, the greater the odds that nobody will have created material addressing it yet. Let's say you're tasked with cooking for a big family get-together and you want to make spaghetti, but your stove is broken, you're out of parmigiana cheese, and your four-year-old niece cracks up and flings spaghetti at the wall whenever she's allowed any on her plate. If you search that question in Google it's unlikely that you'll find a direct answer. In cases like these, as when trying to feed a four-year-old with an aversion to funny-looking foods, you should probably break your question up into multiple smaller pieces before proceeding.
+
+ - Your sub-questions might include:
+   - `Alternatives to boiling water over a stove`
+   - `Parmigiana cheese substitutes`
+   - `How to restrain and feed unruly four-year-olds`
+
+For those who are curious, "spaghetti" *is* the plural. "Spaghetto" is the singular, which means "thin string" in Italian, but nobody in their right mind would ever eat just one noodle of *spaghetto.* If your stove is broken I might suggest heating the pot over a grill, or just ordering take-out.
+
 ### Finding a Tutorial
 
 ### Preparing Yourself For the Tutorial
