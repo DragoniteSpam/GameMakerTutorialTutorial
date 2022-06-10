@@ -30,6 +30,10 @@ Let's imagine that I want to make a tutorial regarding making spaghetti (in Game
 
  - A tutorial on [common error messages that people might Google when they want help solving](https://youtu.be/YxSh1sUh_lA): `Help, I forgot to open the fume hood when I was cooking spaghetti and now the smoke detector is going off!`
 
+It's a really good idea to make sure you're well-acquainted with the subject at hand before making a tutorial on it. This is both to safeguard against creating a tutorial presenting incorrect information as fact, and so that you can answer follow-up questions that people might have for you.
+
+On the other hand, the only reason I passed my 9th grade World History final is because one of my friends emailed me at 10:30 PM the night before asking me to explain the notes that I didn't take to them, so perhaps there's an argument to be made that trying to explain something to someone else is the best way to learn it for yourself.
+
 ### Choosing an Audience
 
 When creating a tutorial, it helps to have a target audience in mind. Are you creating material for complete beginners? Intermediate users who want to learn more? Nerds who want to really push the limits of what they can do?
