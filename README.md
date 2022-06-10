@@ -65,13 +65,13 @@ Let's imagine that I want to make a tutorial regarding making spaghetti. We can 
 
  - A tutorial on something simple that's a good place for people who are just getting started to try out: `Cooking Your First Meal: Spaghetti`
 
- - A tutorial on something [immensely complicated that only the most dedicated of dweebs will be interested in undertaking](https://www.youtube.com/playlist?list=PL_hT--4HOvrf_VYo26LNl3zN5uwfuC3CC): `Cooking Spaghetti on The International Space Station`
+ - A tutorial on something immensely complicated that only the most dedicated of dweebs will be interested in undertaking: `Cooking Spaghetti on The International Space Station`
 
- - A tutorial on [weird stuff that might be mildly interesting in an "I had no idea that was a thing" kind of way but won't be of much use to normal people](https://www.youtube.com/playlist?list=PL_hT--4HOvrfuKZqNs9uWGN5aZub0KrQC): `Cooking Spaghetti, But We Boil The Water Over a GPU Playing Crysis on Ultra Settings Instead of Over a Stovetop`
+ - A tutorial on weird stuff that might be mildly interesting in an "I had no idea that was a thing" kind of way but won't be of much use to normal people: `Cooking Spaghetti, But We Boil The Water Over a GPU Playing Crysis on Ultra Settings Instead of Over a Stovetop`
 
- - A tutorial on [something that's not super difficult but you think everybody should be doing and you want to get the word out about it](https://youtu.be/OdFpxSbgiBg): `Improving Your Spaghetti By Serving With a Bit of Olive Oil`
+ - A tutorial on something that's not super difficult but you think everybody should be doing and you want to get the word out about it: `Improving Your Spaghetti By Serving With a Bit of Olive Oil`
 
- - A tutorial on [common error messages that people might Google when they want help solving](https://youtu.be/YxSh1sUh_lA): `Help, I forgot to open the fume hood when I was cooking spaghetti and now the smoke detector is going off!`
+ - A tutorial on common error messages that people might Google when they want help solving: `Help, I forgot to open the fume hood when I was cooking spaghetti and now the smoke detector is going off!`
 
 It's a really good idea to make sure you're well-acquainted with the subject at hand before making a tutorial on it. This is both to safeguard against creating a tutorial presenting incorrect information as fact, and so that you can answer follow-up questions that people might have for you.
 
