@@ -152,6 +152,8 @@ With that being said, there are some guidelines which might be occasionally usef
 
 People need to know what your thing is about, and by "people" I mean both the individuals that fall in your target audience and the search engine that they might use to find it. Google allegedly can read at a fourth-grade level, or a fifth-grade level, or a sixth-grade level, depending on who you ask, when you ask it, and how smart the person you ask thinks your average fourth-, fifth- or sixth-grader is. This can be a bit of help if you're creating a written tutorial or a video with full captions, and there's a nonzero chance that Google is also capable of deriving some understanding of video by now and we just haven't caught on yet, but giving it a little nudge in the right direction never hurts. It's going to be really hard to make `gm tut 01` rank higher in a search than `How To Cook Spaghetti - GameMaker Tutorial`.
 
+Think about the way that someone searching for your tutorial might phrase their question (see the earlier part of this page). Give it a title that looks something like the answer to what they're looking for.
+
 There are a few SEO-related tools out there that you might consider trying which can do things like recommend keywords and ways to structure your titles. I haven't found one that I actually like yet but I've been assured that there are some good ones out there somewhere.
 
 2. **Avoid being misleading in your title and metadata**
