@@ -18,6 +18,10 @@ ANYWAY. Have you ever thought to yourself "there's this thing that I know how to
 
 ### Choosing an Audience
 
+When creating a tutorial, it helps to have a target audience in mind. Are you creating material for complete beginners? Intermediate users who want to learn more? Nerds who want to really push the limits of what they can do?
+
+The tempting answer might be "everyone," but in practice that doesn't really work very well. The target audience you have in mind will have a sizable influence on the way you present the material. If you delve into the molecular composition of pasta and how preparing it in different ways affects its consistency in a tutorial for beginners, most of them will end up having a hard time following. If you spend too much time explaining that pasta is a food source enjoyed by many people around the world and you can probably buy some in your local supermarket in a tutorial for super nerds, you run the risk of them getting bored and skipping ahead - or, worse, looking for someone else's tutorial.
+
 ### Structuring the Tutorial
 
 ### Presenting the Material
@@ -32,7 +36,7 @@ It's usually a good idea to avoid sounding too formal. You can find descriptions
 
 [![](img/wikipedia2.png?raw=true "Friggin' nerds.")](https://en.wikipedia.org/wiki/Category:Wikipedia_articles_that_are_too_technical)
 
-*Whoever wrote this must be fun at parties.*
+*Friggin' nerds.*
 
 It's also usually a good idea to avoid sounding too conversational. Some people find writing that's too conversational to ruin the immersion and it may be hard to focus on if you include too many weird jokes and self-referential— dammit...
 
@@ -50,7 +54,7 @@ I don't want to get too far into the technical aspects of video production becau
 
 Things you don't *technically* need but you'll find yourself in want of pretty quickly include:
 
- - A computer capable of recording your screen at a steady frame rate. It might be worth checking the [system requirements](https://obsproject.com/wiki/System-Requirements) page on whatever recording software you're using, although at the moment OBS's is admittedly not super helpful
+ - A computer capable of recording your screen at a steady frame rate. It might be worth checking the [system requirements](https://obsproject.com/wiki/System-Requirements) page on whatever recording software you're using, although in the real world you'll want your specs to a bit higher than these
  - A microphone, and relevant accessories such as cables or a pop filter
  - Video editing software
  - Adequate hard drive space
