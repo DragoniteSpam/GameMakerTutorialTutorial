@@ -4,6 +4,10 @@ GameMaker's currently running a [Helpful Dev Jam](https://gamemaker.io/en/blog/h
 
 ## How To Follow A Tutorial
 
+If you've been on the Internet for any length of time, you've no doubt seen someone make the claim "I followed \[insert popular tutorial here\] but it didn't work. If you have, you know [exactly where this is going](https://youtu.be/o_Zu5Lr3rmY). If not, welcome to the Internet, have a look around, anything that brain of yours can think of can be found.
+
+Often times, even with the best-made tutorials, following them beat-for-beat without mentally engaging with the content won't work out. If you're not vigilant, it's easy to let mistakes slip in unnoticed that cause the whole process to break. Most tutorials are presented in a setting that's a bit like a practice arena for a self-driving car, in that they're created in a mostly-empty test setting with minimal distractions or opportunities for unexpected things to go wrong. In the real world, of course, your game is going to have a ton of other things going on in parallel, perhaps with [questionably-engineered systems that run lots of red lights and throw rocks at things they don't recognize](https://en.wikipedia.org/wiki/Coupling_(computer_programming)). This metaphor got away from me.
+
 ### Do You Need a Tutorial?
 
 ### Finding a Tutorial
