@@ -8,7 +8,7 @@ By the end of this tutorial, you will have read the word "tutorial" so many time
 
 If you've been on the Internet for any length of time, you've no doubt seen someone make the claim "I followed \[insert popular tutorial here\] but it didn't work." If you have, you know [exactly where this is going](https://youtu.be/o_Zu5Lr3rmY). If not, welcome to the Internet, have a look around, anything that brain of yours can think of can be found.
 
-Often times, even with the best-made tutorials, following them beat-for-beat without mentally engaging with the content won't work out. If you're not vigilant, it's easy to let mistakes slip in unnoticed that cause the whole process to break. If you can avoid that, transferring the information from the tutorial to your own project without thinking critically about it will be a challenge. Most tutorials are presented in a setting that's a bit like a practice arena for a self-driving car, in that they're created in a mostly-empty test setting with minimal distractions or opportunities for unexpected things to go wrong. In the real world, of course, your game is going to have a ton of other things going on in parallel, perhaps with [questionably-engineered systems that run lots of red lights and throw rocks at things they don't recognize](https://en.wikipedia.org/wiki/Coupling_(computer_programming)). This metaphor got away from me.
+Often times, even with the best-made tutorials, following them beat-for-beat without mentally engaging with the content won't work out. If you're not vigilant, it's easy to let mistakes slip in unnoticed that cause the whole process to break. If you can avoid that, transferring the information from the tutorial to your own project without thinking critically about it will be a challenge. Most tutorials are presented in a setting that's a bit like a practice arena for a self-driving car, in that they're created in a mostly-empty test setting with minimal distractions or opportunities for unexpected things to go wrong. In the real world, of course, your game is going to have a ton of other things going on in parallel, perhaps with [questionably-engineered systems that run lots of red lights and throw rocks at things they don't recognize](https://en.wikipedia.org/wiki/Spaghetti_code). This metaphor got away from me.
 
 ### Do You Need a Tutorial?
 
@@ -61,9 +61,9 @@ ANYWAY. Have you ever thought to yourself "there's this thing that I know how to
 
 It can be on anything you want it to be! But just like your 12th grade English teacher kept nagging you about when it came to the subject of your senior paper, it helps to be specific in what you want to target. Here are some ideas for consideration to help narrow down the scope of what you want to make.
 
-Let's imagine that I want to make a tutorial regarding making spaghetti (in GameMaker, obviously). We can try:
+Let's imagine that I want to make a tutorial regarding making spaghetti. We can try:
 
- - A tutorial on something simple that's a good place for people who are just getting started with GameMaker to try out: `Cooking Your First Meal: Spaghetti in GameMaker`
+ - A tutorial on something simple that's a good place for people who are just getting started to try out: `Cooking Your First Meal: Spaghetti`
 
  - A tutorial on something [immensely complicated that only the most dedicated of dweebs will be interested in undertaking](https://www.youtube.com/playlist?list=PL_hT--4HOvrf_VYo26LNl3zN5uwfuC3CC): `Cooking Spaghetti on The International Space Station`
 
@@ -152,7 +152,7 @@ With that being said, there are some guidelines which might be occasionally usef
 
 1. **Be specific in your title and metadata**
 
-People need to know what your thing is about, and by "people" I mean both the individuals that fall in your target audience and the search engine that they might use to find it. Google allegedly can read at a fourth-grade level, or a fifth-grade level, or a sixth-grade level, depending on who you ask, when you ask it, and how smart the person you ask thinks your average fourth-, fifth- or sixth-grader is. This can be a bit of help if you're creating a written tutorial or a video with full captions, and there's a nonzero chance that Google is also capable of deriving some understanding of video by now and we just haven't caught on yet, but giving it a little nudge in the right direction never hurts. It's going to be really hard to make `gm tut 01` rank higher in a search than `How To Cook Spaghetti - GameMaker Tutorial`.
+People need to know what your thing is about, and by "people" I mean both the individuals that fall in your target audience and the search engine that they might use to find it. Google allegedly can read at a fourth-grade level, or a fifth-grade level, or a sixth-grade level, depending on who you ask, when you ask it, and how smart the person you ask thinks your average fourth-, fifth- or sixth-grader is. This can be a bit of help if you're creating a written tutorial or a video with full captions, and there's a nonzero chance that Google is also capable of deriving some understanding of video by now and we just haven't caught on yet, but giving it a little nudge in the right direction never hurts. It's going to be really hard to make `spg tut 01` rank higher in a search than `How To Cook Spaghetti`.
 
 Think about the way that someone searching for your tutorial might phrase their question (see the earlier part of this page). Give it a title that looks something like the answer to what they're looking for.
 
@@ -164,13 +164,13 @@ Don't try to game the system. Summarize what you're trying to do in simple terms
 
 By the same coin, don't write misleading or annoyingly clickbaity titles and descriptions. Audience retention is currently one of the bigger (if not the biggest) factors in whether or not YouTube will recommend a video to someone. Clickbait has a tendency of making people leave a page and never come back once they realize that they've been had. This benefits nobody.
 
-There's been an ongoing debate for pretty much the entire history of printed media about whether it's a good idea to use CAPITALIZATION and *EMPHASIS* and MAKE BOLD CLAIMS in titles: `The BEST Game Maker RAYRACED SPAGHETTI Tutorial (2022) (HD) (Also Works for CAPELLINI)`, and whether that kind of thing constitutes "annoyingly clickbaity" or not.
+There's been an ongoing debate for pretty much the entire history of printed media about whether it's a good idea to use CAPITALIZATION and *EMPHASIS* and MAKE BOLD CLAIMS in titles: `The BEST of RAYRACED SPAGHETTI Tutorial (2022) (HD) (Also Works for CAPELLINI)`, and whether that kind of thing constitutes "annoyingly clickbaity" or not.
 
 [![I haven't checked to see if anyone beat my world record yet](img/clickbait.png?raw=true "Grice's Maxim of Relation")](https://web.archive.org/web/20220318231925/https://xkcd.com/641/)
 
 *I haven't checked to see if anyone beat my world record yet.*
 
-I'm not going to tell you *not* to do this, but I am going to tell you that if you that if you do this and the Internet drags you over the coals for it that I will think it is very funny.
+I'm not going to tell you *not* to do this, but I am going to tell you that if you that if you do this and the Internet drags you over the coals for it that I will think it is very funny and you probably deserve it.
 
 3. **Tell people that you made a thing**
 
@@ -180,21 +180,21 @@ The fact that these are guidelines and not solid rules is exemplified by the fac
 
 4. **Don't tell EVERYBODY that you made a thing**
 
-[Nobody likes gratuitous self-promotion](https://web.archive.org/web/20220417151710/https://www.reddit.com/r/gamemaker/wiki/subreddit_guidelines#wiki_.5B7.5D_promotional_content_and_advertisements). In an amusing twist of fate, while I was taking a break from writing this post I checked the reports on the GameMaker subreddit and found someone posting crossposting something they made onto every game dev-related subreddit in existence. Their thing wasn't even related to GameMaker. It is no longer found on the subreddit.
+[Nobody likes gratuitous self-promotion](https://web.archive.org/web/20220417151710/https://www.reddit.com/r/gamemaker/wiki/subreddit_guidelines#wiki_.5B7.5D_promotional_content_and_advertisements). In an amusing twist of fate, while I was taking a break from writing this post I checked the reports on the GameMaker subreddit and found someone posting crossposting something they made onto every game dev-related subreddit in existence. Their thing wasn't even related to GameMaker. It is no longer found on the GameMaker subreddit.
 
 5. **If you cover a subject that already has a lot of traffic, add something of your own to make it stand out**
 
 This isn't to say that you're never allowed to cover a topic that [someone else has already made a tutorial on](https://www.youtube.com/results?search_query=gamemaker+text+box+tutorial), but breaking into saturated markets is hard and doing it as a newcomer to the tutorial space is even harder.
 
-Imagine someone searches for "gamemaker spaghetti tutorial," and the search engine retrieves four results. One of them is Shaun's and has a million views, one of them is Cosmo's and has 500,000 views, one of them is Mathy's and has 350,000 views, and one of them is yours and it has ten views. Even if yours ranks just as high in the search as the other three, people in general might be less likely to click on an unknown entity that has yet to prove itself through trial by democracy.
+Imagine someone searches for "spaghetti tutorial," and the search engine retrieves four results. One of them is Shaun's and has a million views, one of them is Cosmo's and has 500,000 views, one of them is Mathy's and has 350,000 views, and one of them is yours and it has ten views. Even if yours ranks just as high in the search as the other three, people in general might be less likely to click on an unknown entity that has yet to prove itself through trial by democracy.
 
 Let's try going for an angle that nobody else has done yet.
 
-`How To Cook Spaghetti with Pesto - GameMaker Tutorial`
+`How To Cook Spaghetti with Pesto and Fresh Garlic`
 
-Has anybody done GameMaker with pesto yet? Probably not. There we go.
+Has anybody done spaghetti with pesto yet? Probably not (don't quote me on that). There we go.
 
-As per guideline #2, don't do this unless your tutorial is actually about GameMaker and pesto, or you'll find yourself with a brand-new set of problems that you could have just avoided.
+As per guideline #2, don't do this unless your tutorial is actually about spaghetti and pesto and garlic, or you'll find yourself with a brand-new set of problems that you could have just avoided.
 
 ### Closing Thoughts
 
@@ -204,13 +204,13 @@ As per guideline #2, don't do this unless your tutorial is actually about GameMa
 
  - Not all tutorial content is going to work for all people; the ways that people learn and absorb information is just too varied. If a tutorial maker tries to cover every possible base to account for every possible caveat and edge case, the tutorial would be [a meandering mess and, paradoxically, absolutely nobody would find it even remotely useful](https://web.archive.org/web/20201111223017/https://archive.org/stream/ulysses04300gut/ulyss12.txt).
 
-Now you know how to make a GameMaker tutorial! Please don't make me regret writing this.
+Now you know how to make a tutorial! Please don't make me regret writing this.
 
 ## Endorsements
 
-[![I'm pretty sure I've been excommunicated at least once for doing this](img/jon.png?raw=true "Jon")](https://www.youtube.com/watch?v=FdJ6E6L1H8o)
+[![I'm pretty sure I've been excommunicated for doing this](img/jon.png?raw=true "Jon")](https://www.youtube.com/watch?v=FdJ6E6L1H8o)
 
-*I'm pretty sure I've been excommunicated at least once for doing this.*
+*I'm pretty sure I've been excommunicated for doing this.*
 
 ## About the Author
 
