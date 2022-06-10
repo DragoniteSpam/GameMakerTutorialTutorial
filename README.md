@@ -4,7 +4,15 @@ GameMaker's currently running a [Helpful Dev Jam](https://gamemaker.io/en/blog/h
 
 ## How To Follow A Tutorial
 
-{ to do }
+### Do You Need a Tutorial?
+
+### Finding a Tutorial
+
+### Preparing Yourself For the Tutorial
+
+### Following the Tutorial
+
+### What to Take Away From The Tutorial
 
 ## How To Create A Tutorial
 
