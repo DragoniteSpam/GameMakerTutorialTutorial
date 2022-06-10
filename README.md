@@ -2,6 +2,8 @@
 
 GameMaker's currently running a [Helpful Dev Jam](https://gamemaker.io/en/blog/helpful-devjam), which means that we're going to be seeing an influx of tutorial-related content in the next few days. This is doubtlessly going to be a lot of peoples' first exposure to both following and creating tutorials, so here are two helpful guides to guide you through the process!
 
+By the end of this tutorial, you will have read the word "tutorial" so many times that it no longer will sound like a real world. I'm sorry in advance.
+
 ## How To Follow A Tutorial
 
 If you've been on the Internet for any length of time, you've no doubt seen someone make the claim "I followed \[insert popular tutorial here\] but it didn't work." If you have, you know [exactly where this is going](https://youtu.be/o_Zu5Lr3rmY). If not, welcome to the Internet, have a look around, anything that brain of yours can think of can be found.
@@ -29,7 +31,7 @@ In order to be able to follow a tutorial you first need the tutorial to exist, a
 
  - **Does your question cover a domain of information that could be sufficiently answered with a set of step-by-step instructions?**
 
-This is where tutorials excel. `How to cook spaghetti with marinara sauce` is a question that can be sufficiently answered with a complete set of step-by-step instructions. If you shift the focus of the question it can still work, such as `How to cook a balanced meal with spaghetti` or `Creating spaghetti noodles from scratch` it can still work. If your question contains words like "best" or "easiest" you start to dance into the ream of opinion pieces (`Best kind of cheese to put on pasta` or `Easiest way to open a jar of tomato sauce`) and should be taken with a grain of salt, but if there's one thing that the Internet loves it's Top Ten lists and you'll find no shortage of blog posts eagerly explaining why everyone else's answer is wrong.
+This is where tutorials excel. `How to cook spaghetti with marinara sauce` is a question that can be sufficiently answered with a complete set of step-by-step instructions. If you shift the focus of the question it can still work, such as `How to cook a balanced meal with spaghetti` or `Creating spaghetti noodles from scratch`. If your question contains words like "best" or "easiest" you start to dance into the ream of opinion pieces (`Best kind of cheese to put on pasta` or `Easiest way to open a jar of tomato sauce`) and should be taken with a grain of salt, but if there's one thing that the Internet loves it's Top Ten lists and you'll find no shortage of blog posts eagerly explaining why everyone else's answer is wrong.
 
 As it happens, cookbooks are basically big ol' lists of analog tutorials. Algorithms are basically recipes. You will never be able to un-think this.
 
