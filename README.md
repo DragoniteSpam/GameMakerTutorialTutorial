@@ -20,7 +20,9 @@ ANYWAY. Have you ever thought to yourself "there's this thing that I know how to
 
 When creating a tutorial, it helps to have a target audience in mind. Are you creating material for complete beginners? Intermediate users who want to learn more? Nerds who want to really push the limits of what they can do?
 
-The tempting answer might be "everyone," but in practice that doesn't really work very well. The target audience you have in mind will have a sizable influence on the way you present the material. If you delve into the molecular composition of pasta and how preparing it in different ways affects its consistency in a tutorial for beginners, most of them will end up having a hard time following. If you spend too much time explaining that pasta is a food source enjoyed by many people around the world and you can probably buy some in your local supermarket in a tutorial for super nerds, you run the risk of them getting bored and skipping ahead - or, worse, looking for someone else's tutorial.
+You might expect this to correlate strongly with the last section, "choosing a topic," but it won't necessarily be. Even "easy" subjects "how to round a number" can get [a lot more complicated than you might expect](https://youtu.be/TS2AdGIN74Y), and if you're careful you can boil complex topics down to the bare essentials to make them easy to understand for beginners.
+
+Anyway, the tempting answer to the audience question might be "everyone," but in practice that doesn't really work very well. The target audience you have in mind will have a sizable influence on the way you present the material. If you delve into the molecular composition of pasta and how preparing it in different ways affects its consistency in a tutorial for beginners, most of them will end up having a hard time following. If you spend too much time explaining that pasta is a food source enjoyed by many people around the world and you can probably buy some in your local supermarket in a tutorial for super nerds, you run the risk of them getting bored and skipping ahead - or, worse, looking for someone else's tutorial.
 
 ### Structuring the Tutorial
 
