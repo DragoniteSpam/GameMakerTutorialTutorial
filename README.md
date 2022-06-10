@@ -12,7 +12,7 @@ Often times, even with the best-made tutorials, following them beat-for-beat wit
 
 Let's say you have a question. The question can be about anything at all, but let's say you need the answer and you need it now. Depending on your question, you might need a tutorial!
 
-For this thought experiment, let's say you have some questions about making **spaghetti.** Let's go over some different kinds of questions, and whether or not seeking a tutorial would be likely to answer it.
+For this thought experiment, let's say you have some questions about making **spaghetti.** Let's go over some different kinds of questions, and whether or not seeking a tutorial would be something you stand to benefit from.
 
  - **Can your question be answered in one word (or a few simple words)?**
 
@@ -26,6 +26,12 @@ In order to be able to follow a tutorial you first need the tutorial to exist, a
    - `Alternatives to boiling water over a stove`
    - `Parmigiana cheese substitutes`
    - `How to restrain and feed unruly four-year-olds`
+
+ - **Does your question cover a domain of information that could be sufficiently answered with a set of step-by-step instructions?**
+
+This is where tutorials excel. `How to cook spaghetti with marinara sauce` is a question that can be sufficiently answered with a complete set of step-by-step instructions. If you shift the focus of the question it can still work, such as `How to cook a balanced meal with spaghetti` or `Creating spaghetti noodles from scratch` it can still work. If your question contains words like "best" or "easiest" you start to dance into the ream of opinion pieces (`Best kind of cheese to put on pasta` or `Easiest way to open a jar of tomato sauce`) and should be taken with a grain of salt, but if there's one thing that the Internet loves it's Top Ten lists and you'll find no shortage of blog posts eagerly explaining why everyone else's answer is wrong.
+
+As it happens, cookbooks are basically big ol' lists of analog tutorials. Algorithms are basically recipes. You will never be able to un-think this.
 
 For those who are curious, "spaghetti" *is* the plural. "Spaghetto" is the singular, which means "thin string" in Italian, but nobody in their right mind would ever eat just one noodle of *spaghetto.* If your stove is broken I might suggest heating the pot over a grill, or just ordering take-out.
 
