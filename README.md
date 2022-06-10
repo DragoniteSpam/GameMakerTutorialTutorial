@@ -161,7 +161,7 @@ Let's try going for an angle that nobody else has done yet.
 
 Has anybody done GameMaker with pesto yet? Probably not. There we go.
 
-As per guideline #2, don't do this unless your tutorial is actually about GameMaker and pesto, or you'll find yourself with a brand-new set of problems that you could have just avoided. This one's more about considerations for what kind of tutorial you want to make than it is about what to do afterwards.
+As per guideline #2, don't do this unless your tutorial is actually about GameMaker and pesto, or you'll find yourself with a brand-new set of problems that you could have just avoided.
 
 ### Closing Thoughts
 
