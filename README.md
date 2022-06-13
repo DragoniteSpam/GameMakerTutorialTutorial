@@ -49,8 +49,6 @@ You can type your request for knowledge into a search engine like Google and you
 
 You might also consider looking for an index on common questions related to your query. Sometimes you can find threads on places such as the GameMaker forums or reddit or the Food Network which serve as a compendium for resources on common questions centered around a theme. Be wary that, while convenient, these hubs are [sometimes not regularly maintained](https://www.reddit.com/r/gamemaker/wiki/index) and there's a good chance that there are other tutorials and resources available that are not listed.
 
-### Preparing Yourself For the Tutorial
-
 ### Following the Tutorial
 
 ### What to Take Away From The Tutorial
