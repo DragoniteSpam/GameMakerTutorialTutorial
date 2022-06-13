@@ -8,7 +8,9 @@ By the end of this tutorial, you will have read the word "tutorial" so many time
 
 If you've been on the Internet for any length of time, you've no doubt seen someone make the claim "I followed \[insert popular tutorial here\] but it didn't work." If you have, you know [exactly where this is going](https://youtu.be/o_Zu5Lr3rmY). If not, welcome to the Internet, have a look around, anything that brain of yours can think of can be found.
 
-Often times, even with the best-made tutorials, following them beat-for-beat without mentally engaging with the content won't work out. If you're not vigilant, it's easy to let mistakes slip in unnoticed that cause the whole process to break. If you can avoid that, transferring the information from the tutorial to your own project without thinking critically about it will be a challenge. Most tutorials are presented in a setting that's a bit like a practice arena for a self-driving car, in that they're created in a mostly-empty test setting with minimal distractions or opportunities for unexpected things to go wrong. In the real world, of course, your game is going to have a ton of other things going on in parallel, perhaps with [questionably-engineered systems that run lots of red lights and throw rocks at things they don't recognize](https://en.wikipedia.org/wiki/Spaghetti_code). This metaphor got away from me.
+Often times, even with the best-made tutorials, following them beat-for-beat without mentally engaging with the content won't work out. If you're not vigilant, it's easy to let mistakes slip in unnoticed that cause the whole process to break. If you can avoid that, transferring the information from the tutorial to your own project without thinking critically about it will be a challenge.
+
+Most tutorials are presented in a setting that's a bit like a practice arena for a self-driving car, in that they're created in a mostly-empty test setting with minimal distractions or opportunities for unexpected things to go wrong. In the real world, of course, your game is going to have a ton of other things going on in parallel, perhaps with [questionably-engineered systems that run lots of red lights and throw rocks at things they don't recognize](https://en.wikipedia.org/wiki/Spaghetti_code). This metaphor got away from me.
 
 ### Do You Need a Tutorial?
 
@@ -22,7 +24,9 @@ If your question is simple, looking up a tutorial might be overkill, or might no
 
  - **Is your question highly specific to your current situation?**
 
-In order to be able to follow a tutorial you first need the tutorial to exist, and the more specialized your question is to the predicament you find yourself in, the greater the odds that nobody will have created material addressing it yet. Let's say you're tasked with cooking for a big family get-together and you want to make spaghetti, but your stove is broken, you're out of parmigiana cheese, and your four-year-old niece cracks up and flings spaghetti at the wall whenever she's allowed any on her plate. If you search that question in Google it's unlikely that you'll find a direct answer. In cases like these, as when trying to feed a four-year-old with an aversion to funny-looking foods, you should probably break your question up into multiple smaller pieces before proceeding.
+In order to be able to follow a tutorial you first need the tutorial to exist, and the more specialized your question is to the predicament you find yourself in, the greater the odds that nobody will have created material addressing it yet.
+
+Let's say you're tasked with cooking for a big family get-together and you want to make spaghetti, but your stove is broken, you're out of parmigiana cheese, and your four-year-old niece cracks up and flings spaghetti at the wall whenever she's allowed any on her plate. If you search that question in Google it's unlikely that you'll find a direct answer. In cases like these, as when trying to feed a four-year-old with an aversion to funny-looking foods, you should probably break your question up into multiple smaller pieces before proceeding.
 
  - Your sub-questions might include:
    - `Alternatives to boiling water over a stove`
@@ -31,11 +35,13 @@ In order to be able to follow a tutorial you first need the tutorial to exist, a
 
  - **Does your question cover a domain of information that could be sufficiently answered with a set of step-by-step instructions?**
 
-This is where tutorials excel. `How to cook spaghetti with marinara sauce` is a question that can be sufficiently answered with a complete set of step-by-step instructions. If you shift the focus of the question it can still work, such as `How to cook a balanced meal with spaghetti` or `Creating spaghetti noodles from scratch`. If your question contains words like "best" or "easiest" you start to dance into the ream of opinion pieces (`Best kind of cheese to put on pasta` or `Easiest way to open a jar of tomato sauce`) and should be taken with a grain of salt, but if there's one thing that the Internet loves it's Top Ten lists and you'll find no shortage of blog posts eagerly explaining why everyone else's answer is wrong.
+This is where tutorials excel. `How to cook spaghetti with marinara sauce` is a question that can be sufficiently answered with a complete set of step-by-step instructions. If you shift the focus of the question it can still work, such as `How to cook a balanced meal with spaghetti` or `Creating spaghetti noodles from scratch`.
+
+If your question contains words like "best" or "easiest" you start to dance into the ream of opinion pieces (`Best kind of cheese to put on pasta` or `Easiest way to open a jar of tomato sauce`). If there's one thing that the Internet loves it's Top Ten lists and you'll find no shortage of blog posts eagerly explaining why everyone else's answer is wrong. Sometimes these can be interesting, but these should be taken with a grain of salt [big enough to raise the boiling point of your spaghetti water by more than half a degree](https://web.archive.org/web/20210818055505/https://www.marthastewart.com/8007133/how-boil-water-faster).
 
 As it happens, cookbooks are basically big ol' lists of analog tutorials. Algorithms are basically recipes. You will never be able to un-think this.
 
-For those who are curious, "spaghetti" *is* the plural. "Spaghetto" is the singular, which means "thin string" in Italian, but nobody in their right mind would ever eat just one noodle of *spaghetto.* If your stove is broken I might suggest heating the pot over a grill, or just ordering take-out.
+For those who are curious, and haven't looked it up yet, "spaghetti" *is* the plural. "Spaghetto" is the singular, which means "thin string" in Italian, but nobody in their right mind would ever eat just one noodle of *spaghetto.* If your stove is broken I might suggest heating the pot over a grill, or just ordering take-out.
 
 ### Finding a Tutorial
 
@@ -81,7 +87,7 @@ On the other hand, the only reason I passed my 9th grade World History final is 
 
 When creating a tutorial, it helps to have a target audience in mind. Are you creating material for complete beginners? Intermediate users who want to learn more? Nerds who want to really push the limits of what they can do?
 
-You might expect this to correlate strongly with the last section, "choosing a topic," but it won't necessarily be. Even "easy" subjects "how to round a number" can get [a lot more complicated than you might expect](https://youtu.be/TS2AdGIN74Y), and if you're careful you can boil complex topics down to the bare essentials to make them easy to understand for beginners.
+You might expect this to correlate strongly with the last section, "choosing a topic," but it won't necessarily be. Even "easy" subjects such as "how to round a number" can get [a lot more complicated than you might expect](https://youtu.be/TS2AdGIN74Y), and if you're careful you can boil complex topics down to the bare essentials to make them easy to understand for beginners.
 
 Anyway, the tempting answer to the audience question might be "everyone," but in practice that doesn't really work very well. The target audience you have in mind will have a sizable influence on the way you present the material. If you delve into the molecular composition of pasta and how preparing it in different ways affects its consistency in a tutorial for beginners, most of them will end up having a hard time following. If you spend too much time explaining that pasta is a food source enjoyed by many people around the world and you can probably buy some in your local supermarket in a tutorial for super nerds, you run the risk of them getting bored and skipping ahead - or, worse, looking for someone else's tutorial.
 
@@ -101,7 +107,7 @@ It's usually a good idea to avoid sounding too formal. You can find descriptions
 
 *Friggin' nerds.*
 
-It's also usually a good idea to avoid sounding too conversational. Some people find writing that's too conversational to ruin the immersion and it may be hard to focus on if you include too many weird jokes and self-referential— dammit...
+It's also usually a good idea to avoid sounding too conversational. Some people find writing that's too conversational to ruin the immersion and it may be hard to focus on if you include too many weird jokes and self-referential, which you should be well aware if you've somehow made it this far in this tutorial.
 
 Sprinkling in images and code samples throughout your text is often recommended. This gives people a reference as to where they should be at given points in the code, and if something starts to go wrong it gives them a way to pin down where it might have happened.
 
@@ -128,7 +134,7 @@ Once the recording is rolling, whatever form that takes, talk through whatever i
 
 Most people would tell you to stay on topic and not waste the viewer's time going on unrelated and ridiculous tangents, but I'm genetically incapable of not goofing off so it would probably be a bit mean-spirited to force other people to do the same. Instead I'll say that if you're going to goof off, keep it somewhat brief and semi-related to the topic at hand. If you do this for long enough, you'll start to develop a sense of for how long you can goof off before your audience starts to get annoyed ~~which for most people is "instantly."~~
 
-Having some level of understanding of how you're going to edit the video is nice, though if you've never worked with video before you might not want to worry about it too much. The nice thing about pre-recorded video is that if you don't like how something came out the first time, or if you trip over your words, you can just cut the video andd o it over again
+Having some level of understanding of how you're going to edit the video is nice, though if you've never worked with video before you might not want to worry about it too much. The nice thing about pre-recorded video is that if you don't like how something came out the first time, or if you trip over your words, you can just gut the video andd o it over again
 
 The nice thing about pre-recorded video is that if you don't like how it came out the first time, or if you words over your words, you cna
 
@@ -186,7 +192,7 @@ The fact that these are guidelines and not solid rules is exemplified by the fac
 
 This isn't to say that you're never allowed to cover a topic that [someone else has already made a tutorial on](https://www.youtube.com/results?search_query=gamemaker+text+box+tutorial), but breaking into saturated markets is hard and doing it as a newcomer to the tutorial space is even harder.
 
-Imagine someone searches for "spaghetti tutorial," and the search engine retrieves four results. One of them is Shaun's and has a million views, one of them is Cosmo's and has 500,000 views, one of them is Mathy's and has 350,000 views, and one of them is yours and it has ten views. Even if yours ranks just as high in the search as the other three, people in general might be less likely to click on an unknown entity that has yet to prove itself through trial by democracy.
+Imagine someone searches for "spaghetti tutorial," and the search engine retrieves four results. One of them is Shaun's and has a million views, one of them is Cosmo's and has 500,000 views, one of them is Mathy's and has 350,000 views, and one of them is yours and it has ten views, and three of them are from your mom who doesn't believe you know how to make spaghetti. Even if yours ranks just as high in the search as the other three, people in general might be less likely to click on an unknown entity that has yet to prove itself through trial by democracy.
 
 Let's try going for an angle that nobody else has done yet.
 
