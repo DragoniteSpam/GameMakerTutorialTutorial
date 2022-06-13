@@ -37,7 +37,7 @@ Let's say you're tasked with cooking for a big family get-together and you want 
 
 This is where tutorials excel. `How to cook spaghetti with marinara sauce` is a question that can be sufficiently answered with a complete set of step-by-step instructions. If you shift the focus of the question it can still work, such as `How to cook a balanced meal with spaghetti` or `Creating spaghetti noodles from scratch`.
 
-If your question contains words like "best" or "easiest" you start to dance into the ream of opinion pieces (`Best kind of cheese to put on pasta` or `Easiest way to open a jar of tomato sauce`). If there's one thing that the Internet loves it's Top Ten lists and you'll find no shortage of blog posts eagerly explaining why everyone else's answer is wrong. Sometimes these can be interesting, but these should be taken with a grain of salt [big enough to raise the boiling point of your spaghetti water by more than half a degree](https://web.archive.org/web/20210818055505/https://www.marthastewart.com/8007133/how-boil-water-faster).
+If your question contains words like "best" or "easiest" you start to dance into the ream of opinion pieces (`Best kind of cheese to put on pasta` or `Easiest way to open a jar of tomato sauce`). If there's one thing that the Internet loves it's Top Ten lists and you'll find no shortage of blog posts eagerly explaining why everyone else's answer is wrong. Sometimes these can be interesting, but these should otherwise be taken with a grain of salt.
 
 As it happens, cookbooks are basically big ol' lists of analog tutorials. Algorithms are basically recipes. You will never be able to un-think this.
 
@@ -81,8 +81,6 @@ Let's imagine that I want to make a tutorial regarding making spaghetti. We can 
 
 It's a really good idea to make sure you're well-acquainted with the subject at hand before making a tutorial on it. This is both to safeguard against creating a tutorial presenting incorrect information as fact, and so that you can answer follow-up questions that people might have for you.
 
-On the other hand, the only reason I passed my 9th grade World History final is because one of my friends emailed me at 10:30 PM the night before asking me to explain the notes that I didn't take to them, so perhaps there's an argument to be made that trying to explain something to someone else is the best way to learn it for yourself.
-
 ### Choosing an Audience
 
 When creating a tutorial, it helps to have a target audience in mind. Are you creating material for complete beginners? Intermediate users who want to learn more? Nerds who want to really push the limits of what they can do?
@@ -93,7 +91,15 @@ Anyway, the tempting answer to the audience question might be "everyone," but in
 
 ### Structuring the Tutorial
 
-### Presenting the Material
+Remember writing outlines for papers in high school? Turns out they're useful for more than getting free points on homework.
+
+Even if you know the subject matter like the back of your hand - which, to be clear, [you absolutely should before you try to make a tutorial on something](if you're making a tutorial on) - you still need to have a plan for how it's going to be presented. The way that you understand something as a power user is usually not the best way to introduce it to your target audience, especially if you're targeting beginners (a *shocking* number of people have trouble accounting for this).
+
+You should establish early on what the goal of your tutorial is going to accomplish. Often, cooking shows on television will show you what the final product that comes out of the oven is going to look like. This serves as an early hook to get peoples' attention and set their expectations appropriately.
+
+As you lay out each instruction step-by-step, remember your target audience and try to anticipate questions that someone with that level of experience might have. If you're writing for people with experience in the kitchen you can probably get away with saying phrases such as *"al dente"* or "let the water simmer" and assume that people will know what you're talking about. If you're writing for beginners, you might consider taking a moment to explain such things.
+
+As you go, feel free to move parts around if you decide they would be better suited elsewhere. I do this fairly often. Feel free to look through the [commit history](https://github.com/DragoniteSpam/GameMakerTutorialTutorial/commits/main) of this document to see where the outline was changed, parts were moved around, jokes were inserted, deleted, or recontextualized, examples were added, and things that probably made sense when I wrote the first draft at 3 in the morning were axed because I had no idea what they were supposed to mean. You'll also notice that sections were added out of order: you don't have to create the whole thing in one shot from start to finish.
 
 ### Creating a Written Tutorial
 
@@ -101,11 +107,11 @@ Congratulations, you're about 80% finished!
 
 Since you already have your outline, pretty much everything that's left involves putting what you've come up with into words. A solid command of the language you're writing in helps immensely. You don't have to write in English. In fact, if you don't speak English, there might be a surprisingly large market for tutorial content in your language that has yet to be filled.
 
-It's usually a good idea to avoid sounding too formal. You can find descriptions for pretty much any algorithm on Wikipedia, but technical articles on Wikipedia have a way of sounding like they were written by someone who's been trapped in a theoretical physics lecture hall for the last 45 years and there's a reason most people search for tutorials elsewhere.
+It's usually a good idea to avoid sounding too formal. You can find descriptions for pretty much any algorithm on Wikipedia, but technical articles on Wikipedia have a way of sounding like they were written by someone who's been held hostage in a theoretical physics lecture hall for the last 45 years. There's a reason most people search for tutorials elsewhere.
 
 [![](img/wikipedia2.png?raw=true "Friggin' nerds.")](https://en.wikipedia.org/wiki/Category:Wikipedia_articles_that_are_too_technical)
 
-*Friggin' nerds.*
+*I'm sure these people are fun at parties.*
 
 It's also usually a good idea to avoid sounding too conversational. Some people find writing that's too conversational to ruin the immersion and it may be hard to focus on if you include too many weird jokes and self-referential, which you should be well aware if you've somehow made it this far in this tutorial.
 
