@@ -61,9 +61,17 @@ You can also try leaving a comment yourself to ask the creator directly. Sometim
 
 ### What to Take Away From The Tutorial
 
+If you learned something from a tutorial but think there's still something that you're missing, don't be afraid to run through it another time or two. (If you go through it too many times and things aren't cleared up, you might have hit a dead end and need to seek information elsewhere.)
+
+All in all, the thing that you need to take away from a tutorial more than anything else are the concepts involved. If you dot every `i` and cross every `t` that's great, but at the end of the day it doesn't matter if you cook the spaghetti for 6 minutes or 6:30 as long as it comes out cooked properly. The exact time will depend on the brand of spaghetti and the heat of your stove anyway. Generally speaking, your end goal will be to be able to take what you've learned and apply it to a broad range of situations.
+
+There are, of course, a few exceptional cases where the difference between success and disappointment can be a tiny amount of imprecision, but [unless you're trying to do something complicated like make maple syrup](https://web.archive.org/web/20220526103602/https://www.treehugger.com/learn-how-to-make-maple-syrup-3016985#:~:text=As%20the%20water,it%27s%20mostly%20water)) that will usually not be the case. Good tutorial makers will know that these kinds of thing can easily go wrong if not paid special attention, and go out of their way to mention it.
+
+Like many things in life - riding a bicycle, artistic endeavors, exercise, murder, even calculus - the thing that you're following a tutorial for will get better with practice. You won't instantly attain mastery over a task the first time you follow a tutorial on it. Keep practicing on your own to hone your skills!
+
 ## How To Create A Tutorial
 
-There's a persistent attitude that "those who can't do, teach" in some circles of modern educational theory. I think this is absolute bollocks and anyone who says this was either dropped as a baby and/or has sour grapes over being told by one of their forebearers that teaching was not a valid career option, or, in most cases, both. There's a (probably misattributed) Albert Einstein quote that goes something like "if you can't explain it to a six year old, you don't understand it yourself," which I find infinitely more palatable.
+There's a persistent attitude that "those who can't do, teach" in some circles of modern educational theory. I think this is absolute bollocks and anyone who says this was probably dropped as a baby, probably multiple times. There's a (probably misattributed) Albert Einstein quote that goes something like "if you can't explain it to a six year old, you don't understand it yourself," which I find infinitely more palatable.
 
 \*cough\* No I'm not upset about the state of contemporary educational institutions, which have been suffering for decades from not giving teachers the respect they deserve or the resources they need to help kids succeed. Whatever gave you that idea?
 
