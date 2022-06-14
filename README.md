@@ -178,6 +178,10 @@ Because we obviously haven't gotten meta enough yet today, [I made a video tutor
 
 Look, marketing is *haaaaaaaard* and anyone who says they know the key to search engine optimization (SEO; if it sounds like an annoying corporate buzzword, that's because it is, albeit a useful one) is lying not only to you but also themselves. The Internet is a chaotic system that's constantly changing, and even duplicating what one person did to get their content to appear on Google searches the world over beat-for-beat will probably lead to wildly and/or disastrously and/or hilariously different results.
 
+[![](img/seo.png?raw=true "Weirdos.")](https://www.youtube.com/watch?v=_8OYrNxKZzw)
+
+*The weirdest about this is that it happened to this Let's Play more than once.*
+
 With that being said, there are some guidelines which might be occasionally useful.
 
 1. **Be specific in your title and metadata**
