@@ -55,7 +55,11 @@ By far the most important thing to remember about tutorials of all stripes is th
 
 Instead of blindly following the directions exactly, pause at each step to make sure you understand why it was done (teachers like to call this "critical thinking," and students *hate* it). If something doesn't make sense, backtrack a few steps to see if something was missed at an earlier point. Generally speaking, tutorial content is 100% deterministic and won't randomly fail to work if followed under the same conditions, but sometimes details can be skimmed over without notice that can cause the whole process to break.
 
-If you're stuck, the comments can be a useful resource to see if anyone else has run into the same problem, and now they managed to fix it. (Other times, the comments are just full of memes.)
+If you're stuck, the comments can be a useful resource to see if anyone else has run into the same problem, and how they managed to fix it. (Other times, the comments are just full of memes.)
+
+[![](img/wota.png?raw=true "Don't be like DenverCoder9.")](https://web.archive.org/web/20220517203047/https://xkcd.com/979/)
+
+*Whatever you do, don't be this guy.*
 
 You can also try leaving a comment yourself to ask the creator directly. Sometimes you'll get an answer.
 
