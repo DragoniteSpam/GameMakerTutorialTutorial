@@ -1,6 +1,6 @@
 # GameMaker Tutorial Tutorial
 
-GameMaker's currently running a [Helpful Dev Jam](https://gamemaker.io/en/blog/helpful-devjam), which means that we're going to be seeing an influx of tutorial-related content in the next few days. This is doubtlessly going to be a lot of peoples' first exposure to both following and creating tutorials, so here are two helpful guides to guide you through the process!
+GameMaker's currently running a [Helpful Dev Jam](https://gamemaker.io/en/blog/helpful-devjam), which means that we're going to be seeing an influx of tutorial-related content in the next few days. This is doubtlessly going to be a lot of peoples' first exposure to both following and creating tutorials, so here are two helpful tutorials to guide you through the process!
 
 By the end of this tutorial, you will have read the word "tutorial" so many times that it no longer will sound like a real world. I'm sorry in advance.
 
@@ -8,9 +8,9 @@ By the end of this tutorial, you will have read the word "tutorial" so many time
 
 If you've been on the Internet for any length of time, you've no doubt seen someone make the claim "I followed \[insert popular tutorial here\] but it didn't work." If you have, you know [exactly where this is going](https://youtu.be/o_Zu5Lr3rmY). If not, welcome to the Internet, have a look around, anything that brain of yours can think of can be found.
 
-Often times, even with the best-made tutorials, following them beat-for-beat without mentally engaging with the content won't work out. If you're not vigilant, it's easy to let mistakes slip in unnoticed that cause the whole process to break. If you can avoid that, transferring the information from the tutorial to your own project without thinking critically about it will be a challenge.
+Often times, even with the best-made tutorials, following them beat-for-beat without mentally engaging with the content won't work out. If you're not vigilant, it's easy to let mistakes slip in unnoticed that cause the whole process to break. If you can avoid that, transferring the information from the tutorial to your own project without thinking critically about it will still be a challenge.
 
-Most tutorials are presented in a setting that's a bit like a practice arena for a self-driving car, in that they're created in a mostly-empty test setting with minimal distractions or opportunities for unexpected things to go wrong. In the real world, of course, your game is going to have a ton of other things going on in parallel, perhaps with [questionably-engineered systems that run lots of red lights and throw rocks at things they don't recognize](https://en.wikipedia.org/wiki/Spaghetti_code). This metaphor got away from me.
+Most tutorials are presented in a setting that's a bit like a practice arena for a self-driving car, in that they're created in a mostly-empty test setting with minimal distractions or opportunities for unexpected things to go wrong. In the real world, of course, your game is going to have a ton of other things happening in parallel, perhaps with [questionably-engineered systems that run lots of red lights and throw rocks at things they don't recognize](https://en.wikipedia.org/wiki/Spaghetti_code). This metaphor got away from me.
 
 ### Do You Need a Tutorial?
 
@@ -18,28 +18,30 @@ Let's say you have a question. The question can be about anything at all, but le
 
 For this thought experiment, let's say you have some questions about making **spaghetti.** Let's go over some different kinds of questions, and whether or not seeking a tutorial would be something you stand to benefit from.
 
- - **Can your question be answered in one word (or a few simple words)?**
+**Can your question be answered in one word (or a few simple words)?**
 
 If your question is simple, looking up a tutorial might be overkill, or might not even be able to answer your question in a relevant way. `Is spaghetti vegetarian?` or `What's the plural of "spaghetti?"` or `If you put spaghetti in a blender, would you be eating it or drinking it?` are all great questions to ask, but they all can be answered in only a few words. You would likely be better off simply looking up an encyclopedia entry on spaghetti instead of a tutorial, or just banging on your next-door neighbor's window and checking if they know.
 
- - **Is your question highly specific to your current situation?**
+**Is your question highly specific to your current situation?**
 
 In order to be able to follow a tutorial you first need the tutorial to exist, and the more specialized your question is to the predicament you find yourself in, the greater the odds that nobody will have created material addressing it yet.
 
-Let's say you're tasked with cooking for a big family get-together and you want to make spaghetti, but your stove is broken, you're out of parmigiana cheese, and your four-year-old niece cracks up and flings spaghetti at the wall whenever she's allowed any on her plate. If you search that question in Google it's unlikely that you'll find a direct answer. In cases like these, as when trying to feed a four-year-old with an aversion to funny-looking foods, you should probably break your question up into multiple smaller pieces before proceeding.
+Let's say you're tasked with cooking for a big family get-together and you want to make spaghetti, but your stove is broken, you're out of parmigiana cheese, and your four-year-old niece cracks up and flings spaghetti at the wall whenever she's allowed any on her plate. If you search that question in Google it's unlikely that you'll find a direct answer. In cases like these, you should probably break your question up into multiple smaller pieces before proceeding.
 
- - Your sub-questions might include:
-   - `Alternatives to boiling water over a stove`
-   - `Parmigiana cheese substitutes`
-   - `How to restrain and feed unruly four-year-olds`
+Your sub-questions might include:
+ - `Alternatives to boiling water over a stove`
+ - `Parmigiana cheese substitutes`
+ - `How to restrain and feed unruly four-year-olds`
 
- - **Does your question cover a domain of information that could be sufficiently answered with a set of step-by-step instructions?**
+Each of these sub-questions, in turn, may or may not benefit from following a tutorial of their own (see the last section).
+
+**Does your question cover a domain of information that could be sufficiently answered with a set of step-by-step instructions?**
 
 This is where tutorials excel. `How to cook spaghetti with marinara sauce` is a question that can be sufficiently answered with a complete set of step-by-step instructions. If you shift the focus of the question it can still work, such as `How to cook a balanced meal with spaghetti` or `Creating spaghetti noodles from scratch`.
 
-If your question contains words like "best" or "easiest" you start to dance into the ream of opinion pieces (`Best kind of cheese to put on pasta` or `Easiest way to open a jar of tomato sauce`). If there's one thing that the Internet loves it's Top Ten lists and you'll find no shortage of blog posts eagerly explaining why everyone else's answer is wrong. Sometimes these can be interesting, but these should otherwise be taken with a grain of salt.
+If your question contains superlatives such as "best" or "easiest" you start to dance into the ream of opinion pieces (`Best kind of cheese to put on pasta` or `Easiest way to open a jar of tomato sauce`). If there's one thing that the Internet loves it's Top Ten lists and you'll find no shortage of blog posts eagerly explaining why they know best and everyone else's answer is wrong. Sometimes these can be interesting, but should otherwise be taken with a grain of salt.
 
-As it happens, cookbooks are basically big ol' lists of analog tutorials. Algorithms are basically recipes. You will never be able to un-think this.
+As it happens, cookbooks are basically big ol' compendiums of analog tutorials. Algorithms are basically recipes. You will never be able to un-think this.
 
 For those who are curious, and haven't looked it up yet, "spaghetti" *is* the plural. "Spaghetto" is the singular, which means "thin string" in Italian, but nobody in their right mind would ever eat just one noodle of *spaghetto.* If your stove is broken I might suggest heating the pot over a grill, or just ordering take-out.
 
@@ -47,7 +49,7 @@ For those who are curious, and haven't looked it up yet, "spaghetti" *is* the pl
 
 You can type your request for knowledge into a search engine like Google and you'll probably find a suitable tutorial pretty easily (assuming one exists).
 
-You might also consider looking for an index on common questions related to your query. Sometimes you can find threads on places such as the GameMaker forums or reddit or the Food Network which serve as a compendium for resources on common questions centered around a theme. Be wary that, while convenient, these hubs are [sometimes not regularly maintained](https://www.reddit.com/r/gamemaker/wiki/index) and there's a good chance that there are other tutorials and resources available that are not listed.
+You might also consider looking for an index on common questions related to your query. Sometimes you can find threads on places such as the GameMaker forums or reddit or the Food Network which serve as a hub for resources on common questions centered around a theme. Be wary that, while convenient, these hubs are [sometimes not regularly maintained](https://www.reddit.com/r/gamemaker/wiki/index) and there's a good chance that there are other tutorials and resources available that are not listed.
 
 ### Following the Tutorial
 
@@ -61,7 +63,7 @@ If you're stuck, the comments can be a useful resource to see if anyone else has
 
 *Whatever you do, don't be this guy.*
 
-You can also try leaving a comment yourself to ask the creator directly. Sometimes you'll get an answer.
+You can also try leaving a comment yourself to ask the creator directly. Sometimes you'll even get an answer!
 
 ### What to Take Away From The Tutorial
 
@@ -69,7 +71,7 @@ If you learned something from a tutorial but think there's still something that 
 
 All in all, the thing that you need to take away from a tutorial more than anything else are the concepts involved. If you dot every `i` and cross every `t` that's great, but at the end of the day it doesn't matter if you cook the spaghetti for 6 minutes or 6:30 as long as it comes out cooked properly. The exact time will depend on the brand of spaghetti and the heat of your stove anyway. Generally speaking, your end goal will be to be able to take what you've learned and apply it to a broad range of situations.
 
-There are, of course, a few exceptional cases where the difference between success and disappointment can be a tiny amount of imprecision, but [unless you're trying to do something complicated like make maple syrup](https://web.archive.org/web/20220526103602/https://www.treehugger.com/learn-how-to-make-maple-syrup-3016985#:~:text=As%20the%20water,it%27s%20mostly%20water)) that will usually not be the case. Good tutorial makers will know that these kinds of thing can easily go wrong if not paid special attention, and go out of their way to mention it.
+There are, of course, a few exceptional cases where the difference between success and disappointment can be a tiny amount of imprecision, but [unless you're trying to do something complicated like make maple syrup](https://web.archive.org/web/20220526103602/https://www.treehugger.com/learn-how-to-make-maple-syrup-3016985#:~:text=As%20the%20water,it%27s%20mostly%20water) that will usually not be the case. Good tutorial makers will know that these kinds of thing can easily go wrong if not paid special attention, and go out of their way to mention it.
 
 Like many things in life - riding a bicycle, artistic endeavors, exercise, murder, even calculus - the thing that you're following a tutorial for will get better with practice. You won't instantly attain mastery over a task the first time you follow a tutorial on it. Keep practicing on your own to hone your skills!
 
@@ -79,13 +81,13 @@ There's a persistent attitude that "those who can't do, teach" in some circles o
 
 \*cough\* No I'm not upset about the state of contemporary educational institutions, which have been suffering for decades from not giving teachers the respect they deserve or the resources they need to help kids succeed. Whatever gave you that idea?
 
-ANYWAY. Have you ever thought to yourself "there's this thing that I know how to do in GameMaker, I wonder if it would be nice if I could tell other people how to do it, too?" If you have, you should probably consult a doctor for a remedy to such ideas ASAP [lest you spend all your time making tutorials such that you never actually have time to make a game](https://github.com/orgs/DragoniteSpam-GameMaker-Tutorials/repositories) but if that isn't a bother to you ~~or if you actually don't want to make a game and are just looking for a convenient excuse to get out of doing so~~ then this is the tutorial for you!
+ANYWAY. Have you ever thought to yourself "there's this thing that I know how to do in GameMaker, I wonder if it would be nice if I could tell other people how to do it, too?" If you have, you should probably consult a doctor for a remedy to such ideas ASAP [lest you spend all your time making tutorials such that you never actually have time to make a game](https://github.com/orgs/DragoniteSpam-GameMaker-Tutorials/repositories). If that isn't a bother to you ~~or if you actually don't want to make a game and are just looking for a convenient excuse to get out of doing so~~ then this is the tutorial for you!
 
 ### Choosing a Subject
 
 It can be on anything you want it to be! But just like your 12th grade English teacher kept nagging you about when it came to the subject of your senior paper, it helps to be specific in what you want to target. Here are some ideas for consideration to help narrow down the scope of what you want to make.
 
-Let's imagine that I want to make a tutorial regarding making spaghetti. We can try:
+Let's imagine that I want to make a tutorial regarding making **spaghetti.** We can try:
 
  - A tutorial on something simple that's a good place for people who are just getting started to try out: `Cooking Your First Meal: Spaghetti`
 
@@ -111,11 +113,11 @@ Anyway, the tempting answer to the audience question might be "everyone," but in
 
 Remember writing outlines for papers in high school? Turns out they're useful for more than getting free points on homework.
 
-Even if you know the subject matter like the back of your hand - which, to be clear, [you absolutely should before you try to make a tutorial on something](if you're making a tutorial on) - you still need to have a plan for how it's going to be presented. The way that you understand something as a power user is usually not the best way to introduce it to your target audience, especially if you're targeting beginners (a *shocking* number of people have trouble accounting for this).
+Even if you know the subject matter like the back of your hand - which, to be clear, [you absolutely should before you try to make a tutorial on something](https://en.wikipedia.org/wiki/The_blind_leading_the_blind) - you still need to have a plan for how it's going to be presented. The way that you understand something as a power user is usually not the best way to introduce it to your target audience, especially if you're targeting beginners (a *shocking* number of people have trouble accounting for this).
 
-You should establish early on what the goal of your tutorial is going to accomplish. Often, cooking shows on television will show you what the final product that comes out of the oven is going to look like. This serves as an early hook to get peoples' attention and set their expectations appropriately.
+You should establish early on what the goal of your tutorial is going to accomplish. Often, cooking shows on television will show you what the final product that comes out of the oven is going to look like at the beginning before they get started. This serves as an early hook to get peoples' attention, and to set their expectations appropriately.
 
-As you lay out each instruction step-by-step, remember your target audience and try to anticipate questions that someone with that level of experience might have. If you're writing for people with experience in the kitchen you can probably get away with saying phrases such as *"al dente"* or "let the water simmer" and assume that people will know what you're talking about. If you're writing for beginners, you might consider taking a moment to explain such things.
+As you lay out each instruction step-by-step, remember your target audience and try to anticipate questions that someone with that level of experience might have. If you're writing for people with experience in the kitchen you can probably get away with saying phrases such as *"al dente"* or "let the water simmer" and assume that people will know what you're talking about. If you're writing for beginners, you might consider taking a moment to explain those things.
 
 As you go, feel free to move parts around if you decide they would be better suited elsewhere. I do this fairly often. Feel free to look through the [commit history](https://github.com/DragoniteSpam/GameMakerTutorialTutorial/commits/main) of this document to see where the outline was changed, parts were moved around, jokes were inserted, deleted, or recontextualized, examples were added, and things that probably made sense when I wrote the first draft at 3 in the morning were axed because I had no idea what they were supposed to mean. You'll also notice that sections were added out of order: you don't have to create the whole thing in one shot from start to finish.
 
@@ -139,7 +141,7 @@ Sprinkling in images and code samples throughout your text is often recommended.
 
 Congratulations, you're about 20% finished!
 
-The good news is that when you're making a video tutorial, you don't need to sprinkle in images and code samples throughout because, well, that's what your entire deliverable is to begin with. The bad news is that there are like a dozen other things you need to keep on top of.
+The good news is that when you're making a video tutorial, you don't need to sprinkle in images and samples throughout because, well, that's what your entire deliverable is to begin with. The bad news is that there are like a dozen other things you need to keep on top of.
 
 I don't want to get too far into the technical aspects of video production because many people have already written entire books about that sort of thing \[citation needed], but you will need:
 
@@ -156,9 +158,9 @@ You can ~~always~~ usually clean up a recording in post if something doesn't wor
 
 Once the recording is rolling, whatever form that takes, talk through whatever it is you're doing in a step-by-step way. The general shape of a video tutorial will usually be the same as a written one. If you've made adequate preparations beforehand you should be fine, but if it helps you might also want to write down an outline of how you're going to present the material as you might with a written tutorial, in addition to the things I talked about in the last paragraph.
 
-Most people would tell you to stay on topic and not waste the viewer's time going on unrelated and ridiculous tangents, but I'm genetically incapable of not goofing off so it would probably be a bit mean-spirited to force other people to do the same. Instead I'll say that if you're going to goof off, keep it somewhat brief and semi-related to the topic at hand. If you do this for long enough, you'll start to develop a sense of for how long you can goof off before your audience starts to get annoyed ~~which for most people is "instantly."~~
+Most people would tell you to stay on topic and not waste the viewer's time going on unrelated and ridiculous tangents, but I'm genetically incapable of not goofing off so it would probably be a bit mean-spirited to expect other people to do the same. Instead I'll say that if you're going to goof off, keep it somewhat brief and semi-related to the topic at hand. If you do this for long enough, you'll start to develop a sense of for how long you can goof off before your audience starts to get annoyed ~~which for most people is "instantly."~~
 
-Having some level of understanding of how you're going to edit the video is nice, though if you've never worked with video before you might not want to worry about it too much. The nice thing about pre-recorded video is that if you don't like how something came out the first time, or if you trip over your words, you can just gut the video andd o it over again
+Having some level of understanding of how you're going to edit the video as you record it is nice, though if you've never worked with video before you might not want to worry about it too much. The nice thing about pre-recorded video is that if you don't like how something came out the first time, or if you trip over your words, you can just gut the video andd o it over again
 
 The nice thing about pre-recorded video is that if you don't like how it came out the first time, or if you words over your words, you cna
 
@@ -168,7 +170,7 @@ Te nice thing about pte \*gagging noises\*
 
 This is why I often recommend drinking water before recording and keeping some on hand at all times to people.
 
-The nice thing about pre-recorded video is that if you don't like how something came out the first time, or if you trip over your words, you can just cut the video and do it over again. It should go without saying is that having to do this as infrequently as possible is ideal, but it's not the end of the world if you do. Try not to make the cuts too obvious, such as by having different things on screen before and after the cut or cutting the audio mid-word, since this can sometimes be distracting and cause people to focus on the edit instead of on the content.
+The nice thing about pre-recorded video is that if you don't like how something came out the first time, or if you trip over your words, you can just cut the video and do it over again. It should go without saying is that having to do this as infrequently as possible is ideal, but it's not the end of the world if you do. Try not to make the cuts too obvious, such as by having different things on screen before and after the cut or cutting the audio mid-word, since this can be distracting and cause people to focus on the edit instead of on the content.
 
 Once you're finished, re-watch the whole thing from beginning to end, ideally after the final video has been rendered out. [Sometimes mistakes slip in](https://youtu.be/0St9UKojd0I?t=4200), which most people would rather catch before the video goes live for the whole world to see.
 
@@ -186,7 +188,7 @@ With that being said, there are some guidelines which might be occasionally usef
 
 1. **Be specific in your title and metadata**
 
-People need to know what your thing is about, and by "people" I mean both the individuals that fall in your target audience and the search engine that they might use to find it. Google allegedly can read at a fourth-grade level, or a fifth-grade level, or a sixth-grade level, depending on who you ask, when you ask it, and how smart the person you ask thinks your average fourth-, fifth- or sixth-grader is. This can be a bit of help if you're creating a written tutorial or a video with full captions, and there's a nonzero chance that Google is also capable of deriving some understanding of video by now and we just haven't caught on yet, but giving it a little nudge in the right direction never hurts. It's going to be really hard to make `spg tut 01` rank higher in a search than `How To Cook Spaghetti`.
+People need to know what your thing is about, and by "people" I mean both the individuals that fall in your target audience and the search engine that they might use to find it. Google allegedly can read at a fourth-grade level, or a fifth-grade level, or a sixth-grade level, depending on who you ask, when you ask it, and how smart the person you ask thinks your average fourth-, fifth-, or sixth-grader is. This can be a bit of help if you're creating a written tutorial or a video with full captions, and there's a nonzero chance that Google is also capable of deriving some understanding of video by now and we just haven't caught on yet, but giving it a little nudge in the right direction never hurts. It's going to be really hard to make `spg tut 01` rank higher in a search than `How To Cook Spaghetti`.
 
 Think about the way that someone searching for your tutorial might phrase their question (see the earlier part of this page). Give it a title that looks something like the answer to what they're looking for.
 
@@ -210,11 +212,11 @@ I'm not going to tell you *not* to do this, but I am going to tell you that if y
 
 Good SEO can get you pretty far, but it's also probably a good idea to be a bit proactive in putting URLs to your thing in places where interested parties might be likely to find it.
 
-The fact that these are guidelines and not solid rules is exemplified by the fact that, 90% of the time, this is exactly what I do, because I'm a lazy sod and about five minutes after I post a thing I'll probably have forgotten that I made it in the first place.
+The fact that these are guidelines and not solid rules is exemplified by the fact that, 90% of the time, uploading a video and then forgetting it exists is exactly what I do, because I'm a lazy sod and about five minutes after I post a thing I'll probably have forgotten that I made it in the first place.
 
 4. **Don't tell EVERYBODY that you made a thing**
 
-[Nobody likes gratuitous self-promotion](https://web.archive.org/web/20220417151710/https://www.reddit.com/r/gamemaker/wiki/subreddit_guidelines#wiki_.5B7.5D_promotional_content_and_advertisements). In an amusing twist of fate, while I was taking a break from writing this post I checked the reports on the GameMaker subreddit and found someone posting crossposting something they made onto every game dev-related subreddit in existence. Their thing wasn't even related to GameMaker. It is no longer found on the GameMaker subreddit.
+[Nobody likes gratuitous self-promotion](https://web.archive.org/web/20220417151710/https://www.reddit.com/r/gamemaker/wiki/subreddit_guidelines#wiki_.5B7.5D_promotional_content_and_advertisements). In an amusing twist of fate, while I was taking a break from writing this post I checked the reports on the GameMaker subreddit and found someone posting crossposting something they made onto every game dev-related subreddit in existence. Their thing wasn't even related to GameMaker. They had no prior activity on the GameMaker subreddit. It is no longer found on the GameMaker subreddit, and they will not be posting there again.
 
 5. **If you cover a subject that already has a lot of traffic, add something of your own to make it stand out**
 
@@ -226,7 +228,7 @@ Let's try going for an angle that nobody else has done yet.
 
 `How To Cook Spaghetti with Pesto and Fresh Garlic`
 
-Has anybody done spaghetti with pesto yet? Probably not (don't quote me on that). There we go.
+Has anybody done spaghetti with pesto yet? Probably not (don't fact check me). There we go.
 
 As per guideline #2, don't do this unless your tutorial is actually about spaghetti and pesto and garlic, or you'll find yourself with a brand-new set of problems that you could have just avoided.
 
@@ -236,7 +238,7 @@ As per guideline #2, don't do this unless your tutorial is actually about spaghe
 
  - [Goedel's incompleteness theorum](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems) tells us that there are true statements that can never be proved by our current system of mathematics. This implies that there are questions that science will never be able to answer, and one of those questions is why so many people on YouTube think "I don't like your voice" is a useful thing to say in a comment. Ban them and move on.
 
- - Not all tutorial content is going to work for all people; the ways that people learn and absorb information is just too varied. If a tutorial maker tries to cover every possible base to account for every possible caveat and edge case, the tutorial would be [a meandering mess and, paradoxically, absolutely nobody would find it even remotely useful](https://web.archive.org/web/20201111223017/https://archive.org/stream/ulysses04300gut/ulyss12.txt).
+ - Not all tutorial content is going to work for all people; the ways that people learn and absorb information is just too varied. If a tutorial maker tries to cover every possible base to account for every possible caveat and edge case, the tutorial would be [a meandering mess and, paradoxically, absolutely nobody would find it even remotely useful](https://archive.org/stream/ulysses04300gut/ulyss12.txt).
 
 Now you know how to make a tutorial! Please don't make me regret writing this.
 
