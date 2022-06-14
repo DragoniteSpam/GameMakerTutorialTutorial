@@ -51,6 +51,14 @@ You might also consider looking for an index on common questions related to your
 
 ### Following the Tutorial
 
+By far the most important thing to remember about tutorials of all stripes is that, while they'll probably teach you how to do something, very rarely will you be able to copy and paste the instructions verbatim. Maybe you need to make twice as much spaghetti as the tutorial calls for, or maybe you don't have a pot that's the right size, or maybe Cousin Eddie hates oregano with a burning passion and you have to improvise with something else. Refer back to what I said earlier about most tutorials taking place under ideal testing conditions which you might not be able to replicate in a real-world situation.
+
+Instead of blindly following the directions exactly, pause at each step to make sure you understand why it was done (teachers like to call this "critical thinking," and students *hate* it). If something doesn't make sense, backtrack a few steps to see if something was missed at an earlier point. Generally speaking, tutorial content is 100% deterministic and won't randomly fail to work if followed under the same conditions, but sometimes details can be skimmed over without notice that can cause the whole process to break.
+
+If you're stuck, the comments can be a useful resource to see if anyone else has run into the same problem, and now they managed to fix it. (Other times, the comments are just full of memes.)
+
+You can also try leaving a comment yourself to ask the creator directly. Sometimes you'll get an answer.
+
 ### What to Take Away From The Tutorial
 
 ## How To Create A Tutorial
