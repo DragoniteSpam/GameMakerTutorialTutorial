@@ -137,6 +137,10 @@ It's also usually a good idea to avoid sounding too conversational. Some people 
 
 Sprinkling in images and code samples throughout your text is often recommended. This gives people a reference as to where they should be at given points in the code, and if something starts to go wrong it gives them a way to pin down where it might have happened.
 
+![I haven't checked to see if anyone beat my world record yet](img/visual.jpg?raw=true "Your spaghetti should look like the picture on the left.")
+
+*Your spaghetti should look like the picture on the left.*
+
 ### Creating a Video Tutorial
 
 Congratulations, you're about 20% finished!
