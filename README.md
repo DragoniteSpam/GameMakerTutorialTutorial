@@ -2,7 +2,7 @@
 
 GameMaker's currently running a [Helpful Dev Jam](https://gamemaker.io/en/blog/helpful-devjam), which means that we're going to be seeing an influx of tutorial-related content in the next few days. This is doubtlessly going to be a lot of peoples' first exposure to both following and creating tutorials, so here are two helpful tutorials to guide you through the process!
 
-By the end of this tutorial, you will have read the word "tutorial" so many times that it no longer will sound like a real world. I'm sorry in advance.
+By the end of this tutorial, you will have read the word "tutorial" so many times that it no longer will sound like a real word. I'm sorry in advance.
 
 ## How To Follow A Tutorial
 
