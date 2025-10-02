@@ -259,7 +259,7 @@ Now you know how to make a tutorial! Please don't make me regret writing this.
 | **Bats**       | Right          |
 | **Throws**     | Right          |
 | **Dex**        | 149            |
-| **Bunnies**    | [One](https://twitter.com/DragoniteSpam/status/1135640616342315010) |
+| **Bunnies**    | ~~[One](https://twitter.com/DragoniteSpam/status/1135640616342315010)~~ Zero :( |
 
 I've spent a lot of time in the last few years making GameMaker tutorials, mostly on subjects that [normal people don't care about](https://www.youtube.com/playlist?list=PL_hT--4HOvrcML9uqHe4fwBVTm650Vy3V).
 
